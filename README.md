@@ -65,7 +65,7 @@
 <a href="mailto:EMAILADDRESS"><img src="https://img.shields.io/badge/-EMAILADDRESS-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 --->
 
-<a href="https://www.linkedin.com/in/mu-aaz-bassa-824b68175/"><img src="https://img.shields.io/badge/-Mu'aaz%20Bassa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muaazbassa/"><img src="https://img.shields.io/badge/-Mu'aaz%20Bassa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/muaazbassa"><img src="https://img.shields.io/badge/-@muaazbassa-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://instagram.com/muaazbassa"><img src="https://img.shields.io/badge/-@muaazbassa_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="http://live.xbox.com/Profile?Gamertag=<muaazbassa20>"><img src="https://img.shields.io/badge/-@muaazbassa20-107C10?style=flat&logo=Xbox&logoColor=white"/></a>
