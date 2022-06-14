@@ -76,6 +76,14 @@ LINK: https://github.com/Ileriayo/markdown-badges
 </p>
 
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muaazbassa&show_icons=true&theme=dark&locale=en&layout=compact" alt="muaazbassa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muaazbassa&show_icons=true&theme=dark&locale=en" alt="muaazbassa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muaazbassa&theme=dark" alt="muaazbassa" /></p>
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
