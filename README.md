@@ -23,7 +23,7 @@ https://github.com/Project-ARENA/website
 ![C#](https://img.shields.io/badge/c%23-05122A?style=flat&logo=C-Sharp&logoColor=9b4993)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=ReactJS)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=react)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=flat&logo=circleci&logoColor=white)&nbsp;
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=flat&logo=codecov&logoColor=white)
